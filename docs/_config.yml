@@ -1,0 +1,16 @@
+title:
+author: Joschuan Santana
+logo: docs/images/logo.png
+only_build_toc_files: true
+
+repository:
+  url: https://github.com/josch-san/michi-monitor-workshop
+  branch: master
+
+execute:
+  execute_notebooks: "off"
+
+sphinx:
+  config:
+    html_show_copyright: false
+    html_last_updated_fmt: "%b %d, %Y"

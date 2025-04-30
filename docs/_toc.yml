@@ -1,0 +1,15 @@
+format: jb-book
+root: README
+
+parts:
+  - caption: Introducción
+    chapters:
+      - file: docs/INTRODUCTION.md
+  - caption: Additional Resources
+    chapters:
+      - url: https://www.packtpub.com/product/crafting-test-driven-software-with-python/9781838642655
+        title: Crafting test driven software with python
+      - url: https://docs.aws.amazon.com/lambda/latest/dg/testing-guide.html
+        title: Testing serverless functions and applications
+      - url: https://aws.amazon.com/blogs/devops/unit-testing-aws-lambda-with-python-and-mock-aws-services
+        title: Unit Testing AWS Lambda with Python and Mock AWS Services
